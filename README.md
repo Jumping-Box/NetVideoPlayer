@@ -2,24 +2,19 @@ NetVideoPlayer - nPlayer
 ==============
 This is a project example for nPlayer which is a powerful video player for ios:
 https://itunes.apple.com/us/app/nplayer-free-best-player-movies/id945304853?mt=8
+
 nPlayer develops based on the open source project of VLC.This Demo can play most of audio formats,includes network audio and video streams.
 We write this for iOS developers who want to add powerful video player to their app using a couple lines of code,and they should rely on the open source VLC licensed Mozilla Public License Version 2.
 
-###Show Image
-[![](http://chuantu.biz/t/50/1410329526x-954498952.png)](http://chuantu.biz/t/50/1410329526x-954498952.png)
-[![](http://chuantu.biz/t/50/1410329652x-954497561.png)](http://chuantu.biz/t/50/1410329652x-954497561.png)
-[![](http://chuantu.biz/t/50/1410329701x-954497561.png)](http://chuantu.biz/t/50/1410329701x-954497561.png)
-[![](http://chuantu.biz/t/50/1410329755x-954497561.png)](http://chuantu.biz/t/50/1410329755x-954497561.png)
-[![](http://chuantu.biz/t/50/1410329808x-954497561.png)](http://chuantu.biz/t/50/1410329808x-954497561.png)
 
 ###Note
 
-Although AVPlayer SDK supports 1080p video, but we suggest you play 1080p video only on iPad Air & iPhone 5s devices.
+Although the SDK supports 1080p video, but we suggest you play 1080p video only on iPad Air & iPhone 5s devices.
 
 ###Compile Requirements
 
  - ARC
- - XCode 5.0 & iOS SDK 7.0
+ - XCode 5.1 & iOS SDK 7.0
 
 ###Deploy Requirements
 
@@ -53,5 +48,5 @@ DO NOT use dolby tech in your iOS app unless you have a dolby license.
 Dolby Digital(AC3), Dolby Digital Plus(E-AC3) and Dolby TrueHD(MLP).
 
 ###Contact us
- - Phone: 86-027-87610250
- - Email: busyorfree123@gmail.com
+ - Phone: 86-13826761899
+ - Email: playeebox@gmail.com
