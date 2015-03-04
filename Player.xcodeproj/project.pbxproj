@@ -22,7 +22,7 @@
 		8198FB3F19BA2DD5007C15D6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8198FB2419BA2DD4007C15D6 /* Foundation.framework */; };
 		8198FB4019BA2DD5007C15D6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8198FB2819BA2DD4007C15D6 /* UIKit.framework */; };
 		8198FB4819BA2DD5007C15D6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8198FB4619BA2DD5007C15D6 /* InfoPlist.strings */; };
-		8198FB4A19BA2DD5007C15D6 /* AVPlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8198FB4919BA2DD5007C15D6 /* AVPlayerTests.m */; };
+		8198FB4A19BA2DD5007C15D6 /* PlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8198FB4919BA2DD5007C15D6 /* PlayerTests.m */; };
 		8198FB5419BA2EE7007C15D6 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8198FB5319BA2EE7007C15D6 /* OpenGLES.framework */; };
 		8198FB5819BA2EFF007C15D6 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8198FB5719BA2EFF007C15D6 /* AVFoundation.framework */; };
 		8198FB5A19BA2F0C007C15D6 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8198FB5919BA2F0C007C15D6 /* AudioToolbox.framework */; };
@@ -146,22 +146,22 @@
 		814C631919BFA31300609C78 /* VLCThumbnailsCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VLCThumbnailsCache.m; sourceTree = "<group>"; };
 		814C631C19C0BBB700609C78 /* VLCMovieViewController~iphone.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "VLCMovieViewController~iphone.xib"; sourceTree = "<group>"; };
 		814C631E19C0C78A00609C78 /* 纪念抗日69周年.flv */ = {isa = PBXFileReference; lastKnownFileType = file; path = "纪念抗日69周年.flv"; sourceTree = "<group>"; };
-		8198FB2119BA2DD4007C15D6 /* AVPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8198FB2119BA2DD4007C15D6 /* Player.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Player.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8198FB2419BA2DD4007C15D6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8198FB2619BA2DD4007C15D6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		8198FB2819BA2DD4007C15D6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		8198FB2C19BA2DD4007C15D6 /* AVPlayer-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AVPlayer-Info.plist"; sourceTree = "<group>"; };
+		8198FB2C19BA2DD4007C15D6 /* Player-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Player-Info.plist"; sourceTree = "<group>"; };
 		8198FB2E19BA2DD4007C15D6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8198FB3019BA2DD4007C15D6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8198FB3219BA2DD4007C15D6 /* AVPlayer-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AVPlayer-Prefix.pch"; sourceTree = "<group>"; };
+		8198FB3219BA2DD4007C15D6 /* Player-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Player-Prefix.pch"; sourceTree = "<group>"; };
 		8198FB3319BA2DD4007C15D6 /* GHAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GHAppDelegate.h; sourceTree = "<group>"; };
 		8198FB3419BA2DD4007C15D6 /* GHAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GHAppDelegate.m; sourceTree = "<group>"; };
 		8198FB3619BA2DD4007C15D6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		8198FB3C19BA2DD4007C15D6 /* AVPlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVPlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8198FB3C19BA2DD4007C15D6 /* PlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8198FB3D19BA2DD4007C15D6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		8198FB4519BA2DD5007C15D6 /* AVPlayerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AVPlayerTests-Info.plist"; sourceTree = "<group>"; };
+		8198FB4519BA2DD5007C15D6 /* PlayerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PlayerTests-Info.plist"; sourceTree = "<group>"; };
 		8198FB4719BA2DD5007C15D6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		8198FB4919BA2DD5007C15D6 /* AVPlayerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AVPlayerTests.m; sourceTree = "<group>"; };
+		8198FB4919BA2DD5007C15D6 /* PlayerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlayerTests.m; sourceTree = "<group>"; };
 		8198FB5319BA2EE7007C15D6 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		8198FB5519BA2EF6007C15D6 /* AudioUnit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioUnit.framework; path = System/Library/Frameworks/AudioUnit.framework; sourceTree = SDKROOT; };
 		8198FB5719BA2EFF007C15D6 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -319,8 +319,8 @@
 		8198FB1819BA2DD4007C15D6 = {
 			isa = PBXGroup;
 			children = (
-				8198FB2A19BA2DD4007C15D6 /* AVPlayer */,
-				8198FB4319BA2DD5007C15D6 /* AVPlayerTests */,
+				8198FB2A19BA2DD4007C15D6 /* Player */,
+				8198FB4319BA2DD5007C15D6 /* PlayerTests */,
 				8198FB2319BA2DD4007C15D6 /* Frameworks */,
 				8198FB2219BA2DD4007C15D6 /* Products */,
 			);
@@ -329,8 +329,8 @@
 		8198FB2219BA2DD4007C15D6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8198FB2119BA2DD4007C15D6 /* AVPlayer.app */,
-				8198FB3C19BA2DD4007C15D6 /* AVPlayerTests.xctest */,
+				8198FB2119BA2DD4007C15D6 /* Player.app */,
+				8198FB3C19BA2DD4007C15D6 /* PlayerTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -360,7 +360,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		8198FB2A19BA2DD4007C15D6 /* AVPlayer */ = {
+		8198FB2A19BA2DD4007C15D6 /* Player */ = {
 			isa = PBXGroup;
 			children = (
 				8198FB3319BA2DD4007C15D6 /* GHAppDelegate.h */,
@@ -377,33 +377,33 @@
 				8198FC1019BA53FE007C15D6 /* Class */,
 				8198FB6719BA37D2007C15D6 /* Resource */,
 			);
-			path = AVPlayer;
+			path = Player;
 			sourceTree = "<group>";
 		};
 		8198FB2B19BA2DD4007C15D6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				8198FB2C19BA2DD4007C15D6 /* AVPlayer-Info.plist */,
+				8198FB2C19BA2DD4007C15D6 /* Player-Info.plist */,
 				8198FB2D19BA2DD4007C15D6 /* InfoPlist.strings */,
 				8198FB3019BA2DD4007C15D6 /* main.m */,
-				8198FB3219BA2DD4007C15D6 /* AVPlayer-Prefix.pch */,
+				8198FB3219BA2DD4007C15D6 /* Player-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		8198FB4319BA2DD5007C15D6 /* AVPlayerTests */ = {
+		8198FB4319BA2DD5007C15D6 /* PlayerTests */ = {
 			isa = PBXGroup;
 			children = (
-				8198FB4919BA2DD5007C15D6 /* AVPlayerTests.m */,
+				8198FB4919BA2DD5007C15D6 /* PlayerTests.m */,
 				8198FB4419BA2DD5007C15D6 /* Supporting Files */,
 			);
-			path = AVPlayerTests;
+			path = PlayerTests;
 			sourceTree = "<group>";
 		};
 		8198FB4419BA2DD5007C15D6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				8198FB4519BA2DD5007C15D6 /* AVPlayerTests-Info.plist */,
+				8198FB4519BA2DD5007C15D6 /* PlayerTests-Info.plist */,
 				8198FB4619BA2DD5007C15D6 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -534,9 +534,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8198FB2019BA2DD4007C15D6 /* AVPlayer */ = {
+		8198FB2019BA2DD4007C15D6 /* Player */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8198FB4D19BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "AVPlayer" */;
+			buildConfigurationList = 8198FB4D19BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "Player" */;
 			buildPhases = (
 				8198FB1D19BA2DD4007C15D6 /* Sources */,
 				8198FB1E19BA2DD4007C15D6 /* Frameworks */,
@@ -546,14 +546,14 @@
 			);
 			dependencies = (
 			);
-			name = AVPlayer;
+			name = Player;
 			productName = AVPlayer;
-			productReference = 8198FB2119BA2DD4007C15D6 /* AVPlayer.app */;
+			productReference = 8198FB2119BA2DD4007C15D6 /* Player.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8198FB3B19BA2DD4007C15D6 /* AVPlayerTests */ = {
+		8198FB3B19BA2DD4007C15D6 /* PlayerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8198FB5019BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "AVPlayerTests" */;
+			buildConfigurationList = 8198FB5019BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "PlayerTests" */;
 			buildPhases = (
 				8198FB3819BA2DD4007C15D6 /* Sources */,
 				8198FB3919BA2DD4007C15D6 /* Frameworks */,
@@ -564,9 +564,9 @@
 			dependencies = (
 				8198FB4219BA2DD5007C15D6 /* PBXTargetDependency */,
 			);
-			name = AVPlayerTests;
+			name = PlayerTests;
 			productName = AVPlayerTests;
-			productReference = 8198FB3C19BA2DD4007C15D6 /* AVPlayerTests.xctest */;
+			productReference = 8198FB3C19BA2DD4007C15D6 /* PlayerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -578,13 +578,8 @@
 				CLASSPREFIX = GH;
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "___FULLUSERNAME___";
-				TargetAttributes = {
-					8198FB3B19BA2DD4007C15D6 = {
-						TestTargetID = 8198FB2019BA2DD4007C15D6;
-					};
-				};
 			};
-			buildConfigurationList = 8198FB1C19BA2DD4007C15D6 /* Build configuration list for PBXProject "AVPlayer" */;
+			buildConfigurationList = 8198FB1C19BA2DD4007C15D6 /* Build configuration list for PBXProject "Player" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -596,8 +591,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8198FB2019BA2DD4007C15D6 /* AVPlayer */,
-				8198FB3B19BA2DD4007C15D6 /* AVPlayerTests */,
+				8198FB2019BA2DD4007C15D6 /* Player */,
+				8198FB3B19BA2DD4007C15D6 /* PlayerTests */,
 			);
 		};
 /* End PBXProject section */
@@ -731,7 +726,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8198FB4A19BA2DD5007C15D6 /* AVPlayerTests.m in Sources */,
+				8198FB4A19BA2DD5007C15D6 /* PlayerTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -740,7 +735,7 @@
 /* Begin PBXTargetDependency section */
 		8198FB4219BA2DD5007C15D6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8198FB2019BA2DD4007C15D6 /* AVPlayer */;
+			target = 8198FB2019BA2DD4007C15D6 /* Player */;
 			targetProxy = 8198FB4119BA2DD5007C15D6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -845,14 +840,14 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/AVPlayer",
+					"$(PROJECT_DIR)/Player",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "AVPlayer/AVPlayer-Prefix.pch";
-				INFOPLIST_FILE = "AVPlayer/AVPlayer-Info.plist";
+				GCC_PREFIX_HEADER = "Player/Player-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Player/Player-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Player;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 i386";
 				WRAPPER_EXTENSION = app;
@@ -867,13 +862,13 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/AVPlayer",
+					"$(PROJECT_DIR)/Player",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "AVPlayer/AVPlayer-Prefix.pch";
-				INFOPLIST_FILE = "AVPlayer/AVPlayer-Info.plist";
+				GCC_PREFIX_HEADER = "Player/Player-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/Player/Player-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Player;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 i386";
 				WRAPPER_EXTENSION = app;
@@ -883,21 +878,19 @@
 		8198FB5119BA2DD5007C15D6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AVPlayer.app/AVPlayer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "AVPlayer/AVPlayer-Prefix.pch";
+				GCC_PREFIX_HEADER = "Player/Player-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "AVPlayerTests/AVPlayerTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				INFOPLIST_FILE = "PlayerTests/PlayerTests-Info.plist";
+				PRODUCT_NAME = PlayerTests;
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Debug;
@@ -905,17 +898,15 @@
 		8198FB5219BA2DD5007C15D6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AVPlayer.app/AVPlayer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "AVPlayer/AVPlayer-Prefix.pch";
-				INFOPLIST_FILE = "AVPlayerTests/AVPlayerTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				GCC_PREFIX_HEADER = "Player/Player-Prefix.pch";
+				INFOPLIST_FILE = "PlayerTests/PlayerTests-Info.plist";
+				PRODUCT_NAME = PlayerTests;
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Release;
@@ -923,7 +914,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8198FB1C19BA2DD4007C15D6 /* Build configuration list for PBXProject "AVPlayer" */ = {
+		8198FB1C19BA2DD4007C15D6 /* Build configuration list for PBXProject "Player" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8198FB4B19BA2DD5007C15D6 /* Debug */,
@@ -932,7 +923,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8198FB4D19BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "AVPlayer" */ = {
+		8198FB4D19BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "Player" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8198FB4E19BA2DD5007C15D6 /* Debug */,
@@ -941,7 +932,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8198FB5019BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "AVPlayerTests" */ = {
+		8198FB5019BA2DD5007C15D6 /* Build configuration list for PBXNativeTarget "PlayerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8198FB5119BA2DD5007C15D6 /* Debug */,
