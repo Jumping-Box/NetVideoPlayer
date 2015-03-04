@@ -1,7 +1,9 @@
-NetVideoPlayer
+NetVideoPlayer - nPlayer
 ==============
-This is a project example of a powerful video player for ios,which develops based on the open source project of VLC.This Demo can play most of audio formats,includes network audio and video streams.
-NetVideoPlayer is written for iOS developers who want to add powerful video player to their app using a couple lines of code,and they should rely on the open source VLC licensed Mozilla Public License Version 2.
+This is a project example for nPlayer which is a powerful video player for ios:
+https://itunes.apple.com/us/app/nplayer-free-best-player-movies/id945304853?mt=8
+nPlayer develops based on the open source project of VLC.This Demo can play most of audio formats,includes network audio and video streams.
+We write this for iOS developers who want to add powerful video player to their app using a couple lines of code,and they should rely on the open source VLC licensed Mozilla Public License Version 2.
 
 ###Show Image
 [![](http://chuantu.biz/t/50/1410329526x-954498952.png)](http://chuantu.biz/t/50/1410329526x-954498952.png)
