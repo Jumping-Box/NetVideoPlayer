@@ -1,4 +1,4 @@
-NetVideoPlayer - nPlayer
+VideoPlayer - nPlayer
 ==============
 This is a project example for nPlayer which is a powerful video player for ios:
 https://itunes.apple.com/us/app/nplayer-free-best-player-movies/id945304853?mt=8
